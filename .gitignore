@@ -1,0 +1,6 @@
+.vscode
+build
+images
+outputs
+logs
+*.o
